@@ -1,0 +1,29 @@
+[
+    {
+        "messageText": "\"Hi Mike, can you join us for dinner tonight?\"",
+        "messageNumber": 0,
+        "sender": "Developer",
+        "recipient": "+27718693002",
+        "messageId": "7514335854",
+        "messageHash": "75:2:HITONIGHT",
+        "status": "Stored"
+    },
+    {
+        "messageText": "\"Hi Mike, can you join us for dinner tonight?\"",
+        "messageNumber": 0,
+        "sender": "Developer",
+        "recipient": "+27718693002",
+        "messageId": "9464142385",
+        "messageHash": "94:2:HITONIGHT",
+        "status": "Stored"
+    },
+    {
+        "messageText": "\"Hi Mike, can you join us for dinner tonight?\"",
+        "messageNumber": 0,
+        "sender": "Developer",
+        "recipient": "+27718693002",
+        "messageId": "1221253149",
+        "messageHash": "12:2:HITONIGHT",
+        "status": "Stored"
+    }
+]
